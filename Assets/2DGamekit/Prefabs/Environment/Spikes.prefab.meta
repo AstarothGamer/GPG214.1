@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4ff9f7a332b4ae44bb62aaee6eacc033
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 3.0
+  assetPath: Assets/2DGamekit/Prefabs/Environment/Spikes.prefab
+  uploadId: 680389
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: bundle
+  assetBundleVariant: 
